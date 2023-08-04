@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "new-faysel",
+    "MONGO_PASSWORD": "0966463034f",
+    "MONGO_DEFAULT_DATABASE": "shop"
+  }
+}
